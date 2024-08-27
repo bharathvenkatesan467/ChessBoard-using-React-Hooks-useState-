@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bharathvenkatesan467/ChessBoard-using-React-Hooks-useState-/static/css/main.3121f83d.css",
+    "main.js": "/bharathvenkatesan467/ChessBoard-using-React-Hooks-useState-/static/js/main.f905a8b7.js",
+    "index.html": "/bharathvenkatesan467/ChessBoard-using-React-Hooks-useState-/index.html",
+    "main.3121f83d.css.map": "/bharathvenkatesan467/ChessBoard-using-React-Hooks-useState-/static/css/main.3121f83d.css.map",
+    "main.f905a8b7.js.map": "/bharathvenkatesan467/ChessBoard-using-React-Hooks-useState-/static/js/main.f905a8b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3121f83d.css",
+    "static/js/main.f905a8b7.js"
+  ]
+}
